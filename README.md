@@ -1,4 +1,4 @@
-### 안녕하세요, 게임 개발자 박재완입니다. 👋
+### 안녕하세요, 개발자 박재완입니다. 👋
 
 <!--
 **hueypark/hueypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
